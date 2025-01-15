@@ -1,4 +1,5 @@
 **cpprestsdk is in maintenance mode and we do not recommend its use in new projects. We will continue to fix critical bugs and address security issues.**
+## Microsoft Network code library, include http/https agreement.
 
 ## Welcome!
 
